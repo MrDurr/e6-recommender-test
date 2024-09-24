@@ -1,0 +1,5 @@
+name: Gh-pages
+
+on:
+  push:
+    branches: [ ]
